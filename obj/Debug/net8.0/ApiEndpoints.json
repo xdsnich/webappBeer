@@ -1,0 +1,108 @@
+[
+  {
+    "ContainingType": "WebAppbotbeer.Controllers.DrinkEntriesController",
+    "Method": "AddEntry",
+    "RelativePath": "api/DrinkEntries",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entry",
+        "Type": "WebAppbotbeer.Data.Entities.DrinkEntry",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAppbotbeer.Controllers.DrinkEntriesController",
+    "Method": "GetEntries",
+    "RelativePath": "api/DrinkEntries/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAppbotbeer.Controllers.HomeController",
+    "Method": "GetData",
+    "RelativePath": "api/Home",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAppbotbeer.Controllers.LocationController",
+    "Method": "GetNearestPubs",
+    "RelativePath": "api/Location/nearest-pubs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "location",
+        "Type": "WebAppbotbeer.Data.Entities.LocationData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAppbotbeer.Controllers.LocationController",
+    "Method": "ReceiveLocation",
+    "RelativePath": "api/Location/receive-location",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "location",
+        "Type": "WebAppbotbeer.Data.Entities.LocationData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelegramAuthController",
+    "Method": "TelegramLogin",
+    "RelativePath": "api/TelegramAuth/telegram-login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "WebAppbotbeer.Data.Dto.TelegramUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAppbotbeer.Controllers.UserController",
+    "Method": "SaveUser",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "WebAppbotbeer.Data.Entities.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

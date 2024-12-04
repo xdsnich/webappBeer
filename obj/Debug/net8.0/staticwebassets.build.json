@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "gpewx2X3tjlOtu9c//FZPBuaC5TiQTfsX1kkeFiy4dI=",
+  "Source": "WebAppbotbeer",
+  "BasePath": "_content/WebAppbotbeer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAppbotbeer\\wwwroot",
+      "Source": "WebAppbotbeer",
+      "ContentRoot": "C:\\Users\\xdxdufo\\source\\repos\\WebAppbotbeer\\wwwroot\\",
+      "BasePath": "_content/WebAppbotbeer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
