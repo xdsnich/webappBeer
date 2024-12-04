@@ -211,6 +211,8 @@ C:\Users\xdxdufo\source\repos\WebAppbotbeer\bin\Debug\net8.0\Microsoft.SqlServer
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\xdxdufo\source\repos\WebAppbotbeer\bin\Debug\net8.0\Npgsql.dll
+C:\Users\xdxdufo\source\repos\WebAppbotbeer\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\bin\Debug\net8.0\System.ClientModel.dll
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\bin\Debug\net8.0\System.Composition.AttributedModel.dll
@@ -315,6 +317,7 @@ C:\Users\xdxdufo\source\repos\WebAppbotbeer\obj\Debug\net8.0\WebAppbotbeer.Assem
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\obj\Debug\net8.0\WebAppbotbeer.AssemblyInfo.cs
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\obj\Debug\net8.0\WebAppbotbeer.csproj.CoreCompileInputs.cache
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\obj\Debug\net8.0\WebAppbotbeer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xdxdufo\source\repos\WebAppbotbeer\obj\Debug\net8.0\WebAppbotbeer.sourcelink.json
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\obj\Debug\net8.0\scopedcss\bundle\WebAppbotbeer.styles.css
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\obj\Debug\net8.0\staticwebassets.development.json

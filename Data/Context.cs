@@ -12,7 +12,7 @@ namespace WebAppbotbeer.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             var connectionString = _configuration.GetConnectionString("SqlServer");
-            optionsBuilder.UseSqlServer(connectionString);
+            optionsBuilder.UseNpgsql(connectionString);
 
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
