@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppbotbeer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+344e38b13c0860ac578580b1db1535d8cbeecc1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed29bc74ef9262462807663d43abe35c2df20e29")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppbotbeer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppbotbeer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
