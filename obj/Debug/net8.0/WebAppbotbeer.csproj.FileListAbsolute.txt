@@ -328,7 +328,6 @@ C:\Users\xdxdufo\source\repos\WebAppbotbeer\obj\Debug\net8.0\staticwebassets\msb
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppbotbeer.props
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppbotbeer.props
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\xdxdufo\source\repos\WebAppbotbeer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\obj\Debug\net8.0\WebAppbo.8CB02100.Up2Date
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\obj\Debug\net8.0\WebAppbotbeer.dll
 C:\Users\xdxdufo\source\repos\WebAppbotbeer\obj\Debug\net8.0\refint\WebAppbotbeer.dll

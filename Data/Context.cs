@@ -15,17 +15,17 @@ namespace WebAppbotbeer.Data
             optionsBuilder.UseNpgsql(connectionString);
 
         }
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            base.OnModelCreating(modelBuilder);
-            modelBuilder.Entity<DrinkEntry>()
-                .HasOne(d => d.User)
-                .WithMany(u => u.DrinkEntries)
-                .HasForeignKey(d => d.UserId)
-                .OnDelete(DeleteBehavior.Cascade);
-        }
+        // protected override void OnModelCreating(ModelBuilder modelBuilder)
+        // {
+        //     base.OnModelCreating(modelBuilder);
+        //     modelBuilder.Entity<DrinkEntry>()
+        //         .HasOne(d => d.User)
+        //         .WithMany(u => u.DrinkEntries)
+        //         .HasForeignKey(d => d.UserId)
+        //         .OnDelete(DeleteBehavior.Cascade);
+        // }
         public DbSet<User> Users { get; set; }
-        public DbSet<LocationData> Locations { get; set; }
+         public DbSet<LocationData> Locations { get; set; }
         public DbSet<DrinkEntry> DrinkEntries { get; set; }
     }
 }

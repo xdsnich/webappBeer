@@ -11,6 +11,6 @@
         public string Hash { get; set; }
         public string PhotoUrl {  get; set; } = string.Empty;
         public long AuthDate { get; set; } 
-        public ICollection<DrinkEntry>? DrinkEntries { get; set; }
+        //public ICollection<DrinkEntry>? DrinkEntries { get; set; }
     }
 }
